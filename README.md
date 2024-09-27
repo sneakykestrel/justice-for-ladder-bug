@@ -1,6 +1,6 @@
 # Justice For Ladder Bug mod for I Am Your Beast
 
-did you know ladders and walls fling you 27km away when you climb them sometimes (or used to depending on when youre reading this)
+did you know ladders and walls used to fling you 27km away when you climb them sometimes? 
 this mod adds that as a feature because its (objectively) awesome
 
 You can customise:
